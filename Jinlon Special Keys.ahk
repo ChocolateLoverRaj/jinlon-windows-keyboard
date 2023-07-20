@@ -58,7 +58,7 @@ SC115::
 
 SC117::
 {
-    Run "./run-hidden.exe C:\Users\rajas\Documents\Change Keyboard Brightness\x64\Debug\Change Keyboard Brightness.exe -20"
+    Run "./run-hidden.exe Change Keyboard Brightness.exe -20"
 }
 #SC117::
 {
@@ -67,7 +67,7 @@ SC117::
 
 SC118::
 {
-    Run "./run-hidden.exe C:\Users\rajas\Documents\Change Keyboard Brightness\x64\Debug\Change Keyboard Brightness.exe +20"
+    Run "./run-hidden.exe Change Keyboard Brightness.exe +20"
 }
 #SC118::
 {
