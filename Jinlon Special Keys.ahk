@@ -162,3 +162,9 @@ SC05D::
 {
     SetCapsLockState !GetKeyState("CapsLock", "T")
 }
+
+; Ctrl + Alt + Delete
+^!SC05D::
+{
+    Send "^!{Delete}"
+}
