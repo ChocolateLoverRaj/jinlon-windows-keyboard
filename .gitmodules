@@ -1,0 +1,6 @@
+[submodule "run-hidden"]
+	path = run-hidden
+	url = https://github.com/stax76/run-hidden
+[submodule "change-keyboard-brightness"]
+	path = change-keyboard-brightness
+	url = https://github.com/ChocolateLoverRaj/chromebook-change-keyboard-brightness
