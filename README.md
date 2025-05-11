@@ -1,3 +1,6 @@
+> [!WARNING]
+> I no longer maintain this and I do not recommend using this. I would recommend using https://github.com/ChocolateLoverRaj/VivaldiKeyboardTester/tree/brightness-only instead, or customizing https://github.com/coolstar/VivaldiKeyboardTester.
+
 # Jinlon Windows Keyboard
 Program the keys on jinlon (HP Elite c1030 Chromebook)'s keyboard to match what is shown on the keys.
 
